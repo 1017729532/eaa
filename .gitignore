@@ -1,0 +1,40 @@
+# MT5 compiled files
+*.ex5
+*.ex4
+
+# Temporary files
+*.tmp
+*.log
+*.bak
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE files
+*.user
+*.suo
+*.vcxproj.filters
+
+# Debug files
+*.pdb
+*.obj
+
+# Build directories
+Debug/
+Release/
+Build/
+
+# Test results
+TestResults/
+
+# Logs
+Logs/
+*.log
+
+# Cache files
+*.cache
+
+# Backup files
+*~
+*.orig
